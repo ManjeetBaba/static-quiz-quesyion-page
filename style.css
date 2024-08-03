@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-card {
+    font-family: Roboto;
+    background-color: #875fc0;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.bg-color-white {
+    background-color: white;
+}
+
+.border-radius {
+    border-radius: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.well-margin {
+    margin: 10px;
+
+
+
+}
+
+.question-img {
+    text-align: center;
+
+
+    padding: 20px;
+}
+
+.score {
+    text-align: right;
+    font-size: 22px;
+    padding-right: 20px;
+    padding-top: 20px;
+    color: white;
+}
+
+.option {
+    padding-top: 20px;
+    margin: 20px;
+}
+
+.list {
+    text-align: center;
+    list-style-type: none;
+    padding: 30px;
+}
+
+li {
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 400;
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.answer {
+    background-color: #875fc0;
+}
